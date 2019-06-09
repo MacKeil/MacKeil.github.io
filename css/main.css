@@ -1,0 +1,25 @@
+html,body{
+    height:100%;
+}
+#about{
+    padding-top: 195px;
+}
+#projects{
+    padding-top: 50px;
+}
+.my-img{
+    position: relative;
+    z-index: 9001;
+    top: 66%;
+    height: 75%;
+}
+.top{
+    left:0;
+    top:0;
+    height: 75%;
+}
+.brand-logo{
+    position: relative;
+    height: 10%;
+    width: 10%;
+}
